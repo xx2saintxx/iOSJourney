@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Trap Beauty Bar
+//  
 //
 //  Created by Toussaint Turnier on 1/9/24.
 //
